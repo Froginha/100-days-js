@@ -1,1 +1,1 @@
-# 100-days-js
+# 100-days-of-javascript
